@@ -1,6 +1,6 @@
 ## Kontributor
 
 - Angelina Makin  
-- Farhan (Kontributor)
+- Agvina Maharani
 
 menambahkan readme agar memudahkan project dijalankan
